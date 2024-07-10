@@ -1,0 +1,173 @@
+{
+  "order": [
+    {
+      "Name": "Jan",
+      "Order": "20 "
+    },
+    {
+      "Name": "Feb",
+      "Order": "60 "
+    },
+    {
+      "Name": "Mar",
+      "Order": "50 "
+    },
+    {
+      "Name": "April",
+      "Order": "45 "
+    },
+    {
+      "Name": "May",
+      "Order": "50 "
+    },
+    {
+      "Name": "June",
+      "Order": "30 "
+    },
+    {
+      "Name": "July",
+      "Order": "70 "
+    }
+  ],
+  "revenue": [
+    {
+      "Name": "Jan",
+      "Revenue": "20 "
+    },
+    {
+      "Name": "Feb",
+      "Revenue": "60 "
+    },
+    {
+      "Name": "Mar",
+      "Revenue": "50 "
+    },
+    {
+      "Name": "April",
+      "Revenue": "45 "
+    },
+    {
+      "Name": "May",
+      "Revenue": "50 "
+    },
+    {
+      "Name": "June",
+      "Revenue": "30 "
+    },
+    {
+      "Name": "July",
+      "Revenue": "70 "
+    }
+  ],
+  "avgorders": [
+    {
+      "Name": "Jan",
+      "Avgorders": "20 "
+    },
+    {
+      "Name": "Feb",
+      "Avgorders": "60 "
+    },
+    {
+      "Name": "Mar",
+      "Avgorders": "50 "
+    },
+    {
+      "Name": "April",
+      "Avgorders": "45 "
+    },
+    {
+      "Name": "May",
+      "Avgorders": "50 "
+    },
+    {
+      "Name": "June",
+      "Avgorders": "30 "
+    },
+    {
+      "Name": "July",
+      "Avgorders": "70 "
+    }
+  ],
+  "visitors": [
+    {
+      "Name": "Jan",
+      "Visitors": "20 "
+    },
+    {
+      "Name": "Feb",
+      "Visitors": "60 "
+    },
+    {
+      "Name": "Mar",
+      "Visitors": "50 "
+    },
+    {
+      "Name": "April",
+      "Visitors": "45 "
+    },
+    {
+      "Name": "May",
+      "Visitors": "50 "
+    },
+    {
+      "Name": "June",
+      "Visitors": "30 "
+    },
+    {
+      "Name": "July",
+      "CurrentPeriod": "45k",
+      "PreviousPeriod": "65k"
+    }
+  ],
+  "orderFullYear": [
+    {
+      "Name": "Jan",
+      "Order": "20 "
+    },
+    {
+      "Name": "Feb",
+      "Order": "60 "
+    },
+    {
+      "Name": "Mar",
+      "Order": "50 "
+    },
+    {
+      "Name": "Apr",
+      "Order": "45 "
+    },
+    {
+      "Name": "May",
+      "Order": "50 "
+    },
+    {
+      "Name": "Jun",
+      "Order": "30 "
+    },
+    {
+      "Name": "July",
+      "Order": "70 "
+    },
+    {
+      "Name": "Aug",
+      "Order": "60 "
+    },
+    {
+      "Name": "Sep",
+      "Order": "65 "
+    },
+    {
+      "Name": "Oct",
+      "Order": "75 "
+    },
+    {
+      "Name": "Nov",
+      "Order": "70 "
+    },
+    {
+      "Name": "Dec",
+      "Order": "80 "
+    }
+  ]
+}

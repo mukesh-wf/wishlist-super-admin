@@ -1,0 +1,267 @@
+.col-lg-2 {
+  background-color: #283046;
+  height: 50rem;
+}
+
+.col-lg-10 {
+  background-color: #111b2a;
+  height: 50rem;
+}
+
+.col-lg-12 {
+  background-color: #283046;
+  height: 100px;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.swiper.swiper-initialized.swiper-horizontal.swiper-pointer-events.mySwiper {
+  height: 13rem;
+}
+
+.swiper-slide {
+  background-image: linear-gradient(#458af6, #37bc9c);
+  border-radius: 20px;
+}
+
+.swiper-button-prev:after,
+.swiper-rtl .swiper-button-next:after {
+  content: "prev";
+  display: none;
+}
+
+.swiper-button-next:after,
+.swiper-rtl .swiper-button-prev:after {
+  content: "next";
+  display: none;
+}
+.swiper.swiper-initialized.swiper-horizontal.swiper-pointer-events.mySwiper {
+  height: 11rem;
+}
+
+pre {
+  margin-left: 28px;
+  font-size: 19px;
+  font-style: revert;
+}
+
+p {
+  font-size: 28px;
+  margin-left: 43px;
+  margin-top: 19px;
+}
+
+th {
+  color: white;
+}
+
+td {
+  color: white;
+}
+
+.table {
+  --bs-table-color: var(--bs-body-color);
+  --bs-table-bg: transparent;
+  --bs-table-border-color: var(--bs-border-color);
+  --bs-table-accent-bg: transparent;
+  --bs-table-striped-color: var(--bs-body-color);
+  --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
+  --bs-table-active-color: var(--bs-body-color);
+  --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+  --bs-table-hover-color: var(--bs-body-color);
+  --bs-table-hover-bg: white;
+  width: 100%;
+  margin-bottom: 1rem;
+  color: var(--bs-table-color);
+  vertical-align: top;
+  border-color: var(--bs-table-border-color);
+}
+
+span.swiper-pagination-bullet.swiper-pagination-bullet-active {
+  display: none;
+}
+
+span.swiper-pagination-bullet {
+  display: none;
+}
+
+div button {
+  margin-left: 17px;
+}
+
+button.btn.btn-primary {
+  margin-left: -18rem;
+}
+
+button.btn.btn-secondary {
+  background-color: #111b2a;
+  border: 1px solid #111b2a;
+}
+
+button.btn.btn-success {
+  background-color: #111b2a;
+  border: 1px solid #111b2a;
+}
+
+.row .col-lg-12 {
+  margin-top: 21px;
+  width: 68rem;
+  margin-left: 23px;
+  height: 69px;
+  border-radius: 15px;
+}
+
+i.fa.fa-bookmark {
+  margin-left: -64rem;
+  margin-top: 18px;
+}
+
+.fa-regular,
+.far {
+  font-weight: 400;
+  color: white;
+  font-size: 20px;
+}
+
+ul.icons {
+  list-style: none;
+  display: flex;
+  justify-content: end;
+  position: relative;
+}
+
+ul.icons li {
+  padding: 20px;
+}
+ul li.message-icon {
+  position: absolute;
+  left: 0;
+}
+
+li img {
+  margin-top: -11px;
+  border-radius: 28px;
+}
+
+i.fa-solid.fa-magnifying-glass {
+  color: white;
+}
+
+.listingTab {
+  list-style: none;
+  margin-left: 157px;
+  color: #2f72b7;
+  margin-top: -24px;
+}
+
+
+.accordion {
+  --bs-accordion-color: #212529;
+  --bs-accordion-btn-padding-x: 1.25rem;
+  --bs-accordion-btn-padding-y: 1rem;
+  --bs-accordion-btn-color: #212529;
+  --bs-accordion-btn-bg: var(--bs-accordion-bg);
+  --bs-accordion-btn-icon: url(data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27 fill=%27%23212529%27%3e%3cpath fill-rule=%27evenodd%27 d=%27M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z%27/%3e%3c/svg%3e);
+  --bs-accordion-btn-icon-width: 1.25rem;
+  --bs-accordion-btn-icon-transition: transform 0.2s ease-in-out;
+  --bs-accordion-btn-active-icon: url(data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27 fill=%27%230c63e4%27%3e%3cpath fill-rule=%27evenodd%27 d=%27M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z%27/%3e%3c/svg%3e);
+  --bs-accordion-btn-focus-border-color: #86b7fe;
+  --bs-accordion-btn-focus-box-shadow: 0 0 0 0.25remrgba (13, 110, 253, 0.25);
+  --bs-accordion-body-padding-x: 1.25rem;
+  --bs-accordion-body-padding-y: 1rem;
+  --bs-accordion-active-color: #0c63e4;
+  --bs-accordion-active-bg: #e7f1ff;
+  color: #873838;
+  margin-left: -59px;
+  background-color: white;
+  --bs-accordion-bg: none;
+}
+
+.accordion .accordion-button {
+  display: flex;
+  align-items: center;
+  width: 93%;
+  padding: var(--bs-accordion-btn-padding-y) var(--bs-accordion-btn-padding-x);
+  font-size: 1rem;
+  color: var(--bs-accordion-btn-color);
+  text-align: left;
+  background-color: #283046;
+  border: 0;
+  border-radius: 0;
+  overflow-anchor: none;
+  transition: var(--bs-accordion-transition);
+  color: white;
+}
+.accordion .accordion-item {
+  border: none;
+}
+
+.accordion-button:not(.collapsed) {
+  color: white !important;
+  background-color: #283046 !important;
+}
+
+.accordion-item {
+  color: white !important;
+  background-color: var(--bs-accordion-bg);
+  border: var(--bs-accordion-border-width) solid
+    var(--bs-accordion-border-color);
+}
+
+.active {
+  background-color: #1c66c1;
+  border: 1px solid #1c66c1;
+  width: 112px;
+  height: 51px;
+  font-size: 15px;
+  color: white;
+}
+
+button.inactive {
+  width: 112px;
+  height: 51px;
+  font-size: 16px;
+  color: white;
+  background-color: #111b2a;
+  border: 1px solid #111b2a;
+  margin-top: -4px;
+}
+
+.buttondiv {
+  margin-left: -31rem;
+}
+
+.accordion-body {
+  font-family: none;
+}
+.list-style{
+  list-style-type: none;
+}

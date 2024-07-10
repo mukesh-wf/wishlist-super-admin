@@ -1,0 +1,52 @@
+{
+  "plan": [
+    {
+      "id": 1,
+      "plan": "Basic"
+    },
+    {
+      "id": 2,
+      "plan": "Team"
+    },
+    {
+      "id": 3,
+      "plan": "Company"
+    },
+    {
+      "id": 4,
+      "plan": "Enterprise"
+    }
+  ],
+  "status": [
+    {
+      "id": 1,
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "status": "inactive"
+    }
+  ],
+  "role": [
+    {
+      "id": 1,
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "role": "Author"
+    },
+    {
+      "id": 3,
+      "role": "Editor"
+    },
+    {
+      "id": 4,
+      "role": "Subscriber"
+    },
+    {
+      "id": 5,
+      "role": "Maintainer"
+    }
+  ]
+}

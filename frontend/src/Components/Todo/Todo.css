@@ -1,0 +1,48 @@
+.click {
+  cursor: pointer;
+}
+
+.grab{
+  cursor: grab;
+}
+
+.color {
+  color: red;
+}
+
+.color1 {
+  color: black;
+}
+
+.userListing-box h5, .modal-heading{
+  color: #272b41;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.4;
+  margin: 0;  
+}
+.todo-page .grid-box h5 {
+  border-bottom: 1px solid #F1F2F6;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+}
+.todo-page table tbody tr {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+  box-shadow: none;
+  border: none;
+}
+.todo-page-btn {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 15px;  
+}
+.modal-content .modal-footer {
+  border: none;
+  padding: 0 24px 20px; 
+}

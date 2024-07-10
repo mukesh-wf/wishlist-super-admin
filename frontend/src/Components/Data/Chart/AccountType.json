@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "type": "Account Receivable",
+    "data": [
+      {
+        "type": "Account Receivable",
+        "day": "current",
+        "amount": 99000
+      },
+      {
+        "type": "Account Receivable",
+        "day": "1-30",
+        "amount": 45000
+      },
+      {
+        "type": "Account Receivable",
+        "day": "30-60",
+        "amount": 90000
+      },
+      {
+        "type": "Account Receivable",
+        "day": "60-90",
+        "amount": 49000
+      },
+      {
+        "type": "Account Receivable",
+        "day": "90+",
+        "amount": 80000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "Account Payable",
+    "data": [
+      {
+        "type": "Account Payable",
+        "day": "current",
+        "amount": 70000
+      },
+      {
+        "type": "Account Payable",
+        "day": "1-30",
+        "amount": 60000
+      },
+      {
+        "type": "Account Payable",
+        "day": "30-60",
+        "amount": 75000
+      },
+      {
+        "type": "Account Payable",
+        "day": "60-90",
+        "amount": 48000
+      },
+      {
+        "type": "Account Payable",
+        "day": "90+",
+        "amount": 99700
+      }
+    ]
+  }
+]

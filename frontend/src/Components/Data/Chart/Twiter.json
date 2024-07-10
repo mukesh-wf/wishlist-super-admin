@@ -1,0 +1,334 @@
+[
+  {
+    "name": "first",
+    "data": [
+      {
+        "Name": "Jan",
+        "Tweet Imp": 6
+      },
+      {
+        "Name": "Feb",
+        "Tweet Imp": 9
+      },
+      {
+        "Name": "Mar",
+        "Tweet Imp": 4
+      },
+      {
+        "Name": "April",
+        "Tweet Imp": 8
+      },
+      {
+        "Name": "May",
+        "Tweet Imp": 10
+      },
+      {
+        "Name": "June",
+        "Tweet Imp": 19
+      },
+      {
+        "Name": "July",
+        "Tweet Imp": 16
+      },
+      {
+        "Name": "Aug",
+        "Tweet Imp": 11
+      },
+      {
+        "Name": "Sep",
+        "Tweet Imp": 8
+      },
+      {
+        "Name": "Oct",
+        "Tweet Imp": 15
+      },
+      {
+        "Name": "Nov",
+        "Tweet Imp": 20
+      },
+      {
+        "Name": "Dec",
+        "Tweet Imp": 30
+      }
+    ]
+  },
+
+  {
+    "name": "second",
+    "data": [
+      {
+        "Name": "Jan",
+        "Tweet Imp": 0
+      },
+      {
+        "Name": "Feb",
+        "Tweet Imp": -10
+      },
+      {
+        "Name": "Mar",
+        "Tweet Imp": 7
+      },
+      {
+        "Name": "April",
+        "Tweet Imp": 9
+      },
+      {
+        "Name": "May",
+        "Tweet Imp": 8
+      },
+      {
+        "Name": "June",
+        "Tweet Imp": 10
+      },
+      {
+        "Name": "July",
+        "Tweet Imp": 12
+      },
+      {
+        "Name": "Aug",
+        "Tweet Imp": 9
+      },
+      {
+        "Name": "Sep",
+        "Tweet Imp": 7
+      },
+      {
+        "Name": "Oct",
+        "Tweet Imp": 9
+      },
+      {
+        "Name": "Nov",
+        "Tweet Imp": 17
+      },
+      {
+        "Name": "Dec",
+        "Tweet Imp": 22
+      }
+    ]
+  },
+
+  {
+    "name": "third",
+    "data": [
+      {
+        "Name": "Jan",
+        "Tweet Imp": 2
+      },
+      {
+        "Name": "Feb",
+        "Tweet Imp": -10
+      },
+      {
+        "Name": "Mar",
+        "Tweet Imp": 4
+      },
+      {
+        "Name": "April",
+        "Tweet Imp": 5
+      },
+      {
+        "Name": "May",
+        "Tweet Imp": 8
+      },
+      {
+        "Name": "June",
+        "Tweet Imp": 0
+      },
+      {
+        "Name": "July",
+        "Tweet Imp": 10
+      },
+      {
+        "Name": "Aug",
+        "Tweet Imp": 7
+      },
+      {
+        "Name": "Sep",
+        "Tweet Imp": 9
+      },
+      {
+        "Name": "Oct",
+        "Tweet Imp": 13
+      },
+      {
+        "Name": "Nov",
+        "Tweet Imp": 17
+      },
+      {
+        "Name": "Dec",
+        "Tweet Imp": 25
+      }
+    ]
+  },
+
+  {
+    "name": "forth",
+    "data": [
+      {
+        "Name": "Jan",
+        "Tweet Imp": 5
+      },
+      {
+        "Name": "Feb",
+        "Tweet Imp": 4
+      },
+      {
+        "Name": "Mar",
+        "Tweet Imp": 2
+      },
+      {
+        "Name": "April",
+        "Tweet Imp": 5
+      },
+      {
+        "Name": "May",
+        "Tweet Imp": 7
+      },
+      {
+        "Name": "June",
+        "Tweet Imp": 9
+      },
+      {
+        "Name": "July",
+        "Tweet Imp": 11
+      },
+      {
+        "Name": "Aug",
+        "Tweet Imp": 15
+      },
+      {
+        "Name": "Sep",
+        "Tweet Imp": 19
+      },
+      {
+        "Name": "Oct",
+        "Tweet Imp": 20
+      },
+      {
+        "Name": "Nov",
+        "Tweet Imp": 25
+      },
+      {
+        "Name": "Dec",
+        "Tweet Imp": 30
+      }
+    ]
+  },
+
+  {
+    "Twitter": "week",
+    "data": [
+      {
+        "tweets": "322",
+        "tweetsImp": "7K",
+        "retweets": "22",
+        "engagement": "2.5",
+        "newFollow": "120"
+      }
+    ]
+  },
+
+  {
+    "Twitter": "month",
+    "data": [
+      {
+        "tweets": "2,322",
+        "tweetsImp": "9K",
+        "retweets": "225",
+        "engagement": "4.5",
+        "newFollow": "920"
+      }
+    ]
+  },
+
+  {
+    "Twitter": "year",
+    "data": [
+      {
+        "tweets": "9,322",
+        "tweetsImp": "77K",
+        "retweets": "2,243",
+        "engagement": "6.5",
+        "newFollow": "9,820"
+      }
+    ]
+  },
+
+  {
+    "Instagram": "week",
+    "data": [
+      {
+        "tweets": "322",
+        "tweetsImp": "7K",
+        "retweets": "22",
+        "engagement": "2.5",
+        "newFollow": "120"
+      }
+    ]
+  },
+
+  {
+    "Instagram": "month",
+    "data": [
+      {
+        "tweets": "2,322",
+        "tweetsImp": "9K",
+        "retweets": "225",
+        "engagement": "4.5",
+        "newFollow": "920"
+      }
+    ]
+  },
+
+  {
+    "Instagram": "year",
+    "data": [
+      {
+        "tweets": "9,322",
+        "tweetsImp": "77K",
+        "retweets": "2,243",
+        "engagement": "6.5",
+        "newFollow": "9,820"
+      }
+    ]
+  },
+
+  {
+    "Linkedin": "week",
+    "data": [
+      {
+        "tweets": "322",
+        "tweetsImp": "7K",
+        "retweets": "22",
+        "engagement": "2.5",
+        "newFollow": "120"
+      }
+    ]
+  },
+
+  {
+    "Linkedin": "month",
+    "data": [
+      {
+        "tweets": "2,322",
+        "tweetsImp": "9K",
+        "retweets": "225",
+        "engagement": "4.5",
+        "newFollow": "920"
+      }
+    ]
+  },
+
+  {
+    "Linkedin": "year",
+    "data": [
+      {
+        "tweets": "9,322",
+        "tweetsImp": "77K",
+        "retweets": "2,243",
+        "engagement": "6.5",
+        "newFollow": "9,820"
+      }
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Akshita",
+      "city": "Moradabad",
+      "plan": "Basic",
+      "status": "active",
+      "img": "https://i.pravatar.cc/150?img=47",
+      "dob": "1995-02-17",
+      "gender": "female",
+      "role": "Editor"
+    },
+    {
+      "id": 2,
+      "name": "Nik",
+      "city": "Lucknow",
+      "plan": "Basic",
+      "status": "inactive",
+      "img": "https://i.pravatar.cc/150?img=56",
+      "dob": "1988-07-13",
+      "gender": "male",
+      "role": "Subscriber"
+    },
+    {
+      "id": 3,
+      "name": "Garry",
+      "city": "Noida",
+      "plan": "Team",
+      "status": "inactive",
+      "img": "https://thenewcode.com/assets/images/thumbnails/sarah-parmenter.jpeg",
+      "dob": "1994-01-12",
+      "gender": "female",
+      "role": "Admin"
+    },
+    {
+      "id": 4,
+      "name": "Ritesh",
+      "city": "Delhi",
+      "plan": "Team",
+      "status": "active",
+      "img": "https://i.pravatar.cc/150?img=8",
+      "gender": "male",
+      "dob": "1991-09-14",
+      "role": "Author"
+    },
+    {
+      "id": 5,
+      "name": "Somya",
+      "city": "Gurugram",
+      "plan": "Company",
+      "status": "active",
+      "img": "https://i.pravatar.cc/150?img=41",
+      "dob": "1995-10-14",
+      "gender": "female",
+      "role": "Editor"
+    },
+    {
+      "id": 6,
+      "name": "Saurav",
+      "city": "Mumbai",
+      "plan": "Enterprise",
+      "status": "active",
+      "img": "https://i.pravatar.cc/150?img=33",
+      "gender": "male",
+      "dob": "1991-09-14",
+      "role": "Subscriber"
+    },
+    {
+      "id": 7,
+      "name": "Kelvin",
+      "city": "Rampur",
+      "plan": "Basic",
+      "status": "inactive",
+      "img": "https://i.pravatar.cc/150?img=12",
+      "gender": "female",
+      "dob": "1987-06-23",
+      "role": "Admin"
+    },
+    {
+      "id": 8,
+      "name": "Parul",
+      "city": "Chandigarh",
+      "plan": "Basic",
+      "status": "inactive",
+      "img": "https://i.pravatar.cc/150?img=10",
+      "gender": "female",
+      "dob": "1981-11-06",
+      "role": "Maintainer"
+    },
+    {
+      "id": 9,
+      "name": "Devil",
+      "city": "Dehradun",
+      "plan": "Team",
+      "status": "active",
+      "img": "https://i.pravatar.cc/150?img=67",
+      "gender": "male",
+      "dob": "1984-05-10",
+      "role": "Maintainer"
+    }
+  ]
+}

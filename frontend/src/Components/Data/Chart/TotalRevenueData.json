@@ -1,0 +1,179 @@
+[
+  {
+    "name": "weekData",
+    "Users": "22.6K",
+    "Sessions": "27.2k",
+    "BounceRate": "26.3%",
+    "SessionDuration": "2m 18s ",
+    "data": [
+      {
+        "Name": "Sun",
+        "Current Period": 35000,
+        "Previous Period": 25000,
+        "amt": 20
+      },
+      {
+        "Name": "Mon",
+        "Current Period": 25000,
+        "Previous Period": 40000,
+        "amt": 20
+      },
+      {
+        "Name": "Tue",
+        "Current Period": 29000,
+        "Previous Period": 33000,
+        "amt": 20
+      },
+      {
+        "Name": "Wed",
+        "Current Period": 30000,
+        "Previous Period": 44000,
+        "amt": 20
+      },
+      {
+        "Name": "Thu",
+        "Current Period": 45000,
+        "Previous Period": 20000,
+        "amt": 20
+      },
+      {
+        "Name": "Fri",
+        "Current Period": 30000,
+        "Previous Period": 25000,
+        "amt": 20
+      },
+      {
+        "Name": "Sat",
+        "Current Period": 28000,
+        "Previous Period": 31000,
+        "amt": 20
+      }
+    ]
+  },
+  {
+    "name": "monthData",
+    "Users": "52.6K",
+    "Sessions": "47.2k",
+    "BounceRate": "36.3%",
+    "SessionDuration": "2m 18s ",
+    "data": [
+      {
+        "Name": "1-5",
+        "Current Period": 34000,
+        "Previous Period": 45000,
+        "amt": 5
+      },
+      {
+        "Name": "6-10",
+        "Current Period": 35000,
+        "Previous Period": 20000,
+        "amt": 5
+      },
+      {
+        "Name": "11-15",
+        "Current Period": 42000,
+        "Previous Period": 35000,
+        "amt": 1
+      },
+      {
+        "Name": "16-20",
+        "Current Period": 40000,
+        "Previous Period": 32000,
+        "amt": 10
+      },
+      {
+        "Name": "21-25",
+        "Current Period": 65000,
+        "Previous Period": 35000,
+        "amt": 10
+      },
+      {
+        "Name": "26-31",
+        "Current Period": 60000,
+        "Previous Period": 54000,
+        "amt": 10
+      }
+    ]
+  },
+  {
+    "name": "yearData",
+    "Users": "62.6K",
+    "Sessions": "50.2k",
+    "BounceRate": "36.3%",
+    "SessionDuration": "2m 18s",
+    "data": [
+      {
+        "Name": "Jan",
+        "Current Period": 64000,
+        "Previous Period": 51000,
+        "amt": 5
+      },
+      {
+        "Name": "Feb",
+        "Current Period": 35000,
+        "Previous Period": 20000,
+        "amt": 5
+      },
+      {
+        "Name": "Mar",
+        "Current Period": 45000,
+        "Previous Period": 35000,
+        "amt": 1
+      },
+      {
+        "Name": "Apr",
+        "Current Period": 42000,
+        "Previous Period": 32000,
+        "amt": 20
+      },
+      {
+        "Name": "May",
+        "Current Period": 65000,
+        "Previous Period": 40000,
+        "amt": 20
+      },
+      {
+        "Name": "Jun",
+        "Current Period": 63000,
+        "Previous Period": 54000,
+        "amt": 20
+      },
+      {
+        "Name": "Jul",
+        "Current Period": 65000,
+        "Previous Period": 43000,
+        "amt": 20
+      },
+      {
+        "Name": "Aug",
+        "Current Period": 42000,
+        "Previous Period": 22000,
+        "amt": 20
+      },
+      {
+        "Name": "Sep",
+        "Current Period": 41000,
+        "Previous Period": 35000,
+        "amt": 20
+      },
+      {
+        "Name": "Oct",
+        "Current Period": 50000,
+        "Previous Period": 40000,
+        "amt": 20
+      },
+      {
+        "Name": "Nov",
+        "Current Period": "40000",
+        "Previous Period": "30000",
+        "amt": 26
+      },
+      {
+        "Name": "Dec",
+        "Current Period": 65000,
+        "Previous Period": 55000,
+        "amt": 25
+      }
+    ]
+  }
+]

@@ -1,0 +1,541 @@
+[
+  {
+    "name": "radar",
+    "series": [
+      {
+        "name": "Series 1",
+        "data": [80, 50, 30, 40, 100, 20]
+      }
+    ],
+    "options": {
+      "title": {
+        "text": "Basic Radar Chart"
+      },
+      "xaxis": {
+        "categories": ["January", "February", "March", "April", "May", "June"]
+      }
+    }
+  },
+  {
+    "name": "radarMulti",
+    "series": [
+      {
+        "name": "Series 1",
+        "data": [80, 50, 30, 40, 100, 20]
+      },
+      {
+        "name": "Series 2",
+        "data": [20, 30, 40, 80, 20, 80]
+      },
+      {
+        "name": "Series 3",
+        "data": [44, 76, 78, 13, 43, 10]
+      }
+    ],
+    "options": {
+      "chart": {
+        "dropShadow": {
+          "enabled": true,
+          "blur": 1,
+          "left": 1,
+          "top": 1
+        }
+      },
+      "title": {
+        "text": "Radar Chart - Multi Series"
+      },
+      "stroke": {
+        "width": 2
+      },
+      "fill": {
+        "opacity": 0.1
+      },
+      "markers": {
+        "size": 0
+      },
+      "xaxis": {
+        "categories": ["2011", "2012", "2013", "2014", "2015", "2016"]
+      }
+    }
+  },
+  {
+    "name": "radarPolygon",
+    "series": [
+      {
+        "name": "Series 1",
+        "data": [20, 100, 40, 30, 50, 80, 33]
+      }
+    ],
+    "options": {
+      "dataLabels": {
+        "enabled": true
+      },
+      "plotOptions": {
+        "radar": {
+          "size": 140,
+          "polygons": {
+            "strokeColors": "#e9e9e9",
+            "fill": {
+              "colors": ["#f8f8f8", "#fff"]
+            }
+          }
+        }
+      },
+      "title": {
+        "text": "Radar with Polygon Fill"
+      },
+      "colors": ["#FF4560"],
+      "markers": {
+        "size": 4,
+        "colors": ["#fff"],
+        "strokeColor": "#FF4560",
+        "strokeWidth": 2
+      },
+      "xaxis": {
+        "categories": [
+          "Sunday",
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ]
+      },
+      "yaxis": {
+        "tickAmount": 7
+      }
+    }
+  },
+  {
+    "name": "basicArea",
+    "series": [
+      {
+        "name": "STOCK ABC",
+        "data": ["5121.00", "5520.00", "6121.00", "6621.00"]
+      }
+    ],
+    "options": {
+      "chart": {
+        "zoom": {
+          "enabled": false
+        }
+      },
+      "dataLabels": {
+        "enabled": false
+      },
+      "stroke": {
+        "curve": "straight"
+      },
+      "title": {
+        "text": "Fundamental Analysis of Stocks",
+        "align": "left"
+      },
+      "subtitle": {
+        "text": "Price Movements",
+        "align": "left"
+      },
+      "xaxis": {
+        "categories": [
+          "2011",
+          "2011",
+          "2011",
+          "2011",
+          "2012",
+          "2012",
+          "2012",
+          "2012"
+        ]
+      },
+      "yaxis": {
+        "opposite": true
+      },
+      "legend": {
+        "horizontalAlign": "left"
+      }
+    }
+  },
+  {
+    "name": "sparea",
+    "series": [
+      {
+        "name": "series1",
+        "data": [31, 40, 28, 51, 42, 109, 100]
+      },
+      {
+        "name": "series2",
+        "data": [11, 32, 45, 32, 34, 52, 41]
+      }
+    ],
+    "options": {
+      "dataLabels": {
+        "enabled": false
+      },
+      "stroke": {
+        "curve": "smooth"
+      },
+      "xaxis": {
+        "type": "datetime",
+        "categories": [
+          "2018-09-19T00:00:00.000Z",
+          "2018-09-19T01:30:00.000Z",
+          "2018-09-19T02:30:00.000Z",
+          "2018-09-19T03:30:00.000Z",
+          "2018-09-19T04:30:00.000Z",
+          "2018-09-19T05:30:00.000Z",
+          "2018-09-19T06:30:00.000Z"
+        ]
+      },
+      "tooltip": {
+        "x": {
+          "format": "dd/MM/yy HH:mm"
+        }
+      }
+    }
+  },
+  {
+    "name": "negativeArea",
+    "series": [
+      {
+        "name": "north",
+        "data": [
+          {
+            "x": 1996,
+            "y": 322
+          },
+          {
+            "x": 1997,
+            "y": 324
+          },
+          {
+            "x": 1998,
+            "y": 329
+          },
+          {
+            "x": 1999,
+            "y": 342
+          },
+          {
+            "x": 2000,
+            "y": 348
+          },
+          {
+            "x": 2001,
+            "y": 334
+          },
+          {
+            "x": 2002,
+            "y": 325
+          },
+          {
+            "x": 2003,
+            "y": 316
+          },
+          {
+            "x": 2004,
+            "y": 318
+          },
+          {
+            "x": 2005,
+            "y": 330
+          },
+          {
+            "x": 2006,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "south",
+        "data": [
+          {
+            "x": 1996,
+            "y": 162
+          },
+          {
+            "x": 1997,
+            "y": 90
+          },
+          {
+            "x": 1998,
+            "y": 50
+          },
+          {
+            "x": 1999,
+            "y": 77
+          },
+          {
+            "x": 2000,
+            "y": 35
+          },
+          {
+            "x": 2001,
+            "y": -45
+          },
+          {
+            "x": 2002,
+            "y": -88
+          },
+          {
+            "x": 2003,
+            "y": -120
+          },
+          {
+            "x": 2004,
+            "y": -156
+          },
+          {
+            "x": 2005,
+            "y": -123
+          },
+          {
+            "x": 2006,
+            "y": -88
+          }
+        ]
+      }
+    ],
+    "options": {
+      "dataLabels": {
+        "enabled": false
+      },
+      "stroke": {
+        "curve": "straight"
+      },
+
+      "title": {
+        "text": "Area with Negative Values",
+        "align": "left",
+        "style": {
+          "fontSize": "14px"
+        }
+      },
+      "xaxis": {
+        "type": "datetime",
+        "axisBorder": {
+          "show": false
+        },
+        "axisTicks": {
+          "show": false
+        }
+      },
+      "yaxis": {
+        "tickAmount": 4,
+        "floating": false,
+
+        "labels": {
+          "style": {
+            "colors": "#8e8da4"
+          },
+          "offsetY": -7,
+          "offsetX": 0
+        },
+        "axisBorder": {
+          "show": false
+        },
+        "axisTicks": {
+          "show": false
+        }
+      },
+      "fill": {
+        "opacity": 0.5
+      },
+      "tooltip": {
+        "x": {
+          "format": "yyyy"
+        },
+        "fixed": {
+          "enabled": false,
+          "position": "topRight"
+        }
+      },
+      "grid": {
+        "yaxis": {
+          "lines": {
+            "offsetX": -30
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "stackedArea",
+    "options": {
+      "chart": {
+        "stacked": true
+      },
+      "colors": ["#008FFB", "#00E396", "#CED4DC"],
+      "dataLabels": {
+        "enabled": false
+      },
+      "stroke": {
+        "curve": "smooth"
+      },
+      "fill": {
+        "type": "gradient",
+        "gradient": {
+          "opacityFrom": 0.6,
+          "opacityTo": 0.8
+        }
+      },
+      "legend": {
+        "position": "top",
+        "horizontalAlign": "left"
+      },
+      "xaxis": {
+        "type": "datetime"
+      }
+    }
+  },
+  {
+    "name": "missingArea",
+    "series": [
+      {
+        "name": "Network",
+        "data": [
+          {
+            "x": "Dec 23 2017",
+            "y": null
+          },
+          {
+            "x": "Dec 24 2017",
+            "y": 44
+          },
+          {
+            "x": "Dec 25 2017",
+            "y": 31
+          },
+          {
+            "x": "Dec 26 2017",
+            "y": 38
+          },
+          {
+            "x": "Dec 27 2017",
+            "y": null
+          },
+          {
+            "x": "Dec 28 2017",
+            "y": 32
+          },
+          {
+            "x": "Dec 29 2017",
+            "y": 55
+          },
+          {
+            "x": "Dec 30 2017",
+            "y": 51
+          },
+          {
+            "x": "Dec 31 2017",
+            "y": 67
+          },
+          {
+            "x": "Jan 01 2018",
+            "y": 22
+          },
+          {
+            "x": "Jan 02 2018",
+            "y": 34
+          },
+          {
+            "x": "Jan 03 2018",
+            "y": null
+          },
+          {
+            "x": "Jan 04 2018",
+            "y": null
+          },
+          {
+            "x": "Jan 05 2018",
+            "y": 11
+          },
+          {
+            "x": "Jan 06 2018",
+            "y": 4
+          },
+          {
+            "x": "Jan 07 2018",
+            "y": 15
+          },
+          {
+            "x": "Jan 08 2018",
+            "y": null
+          },
+          {
+            "x": "Jan 09 2018",
+            "y": 9
+          },
+          {
+            "x": "Jan 10 2018",
+            "y": 34
+          },
+          {
+            "x": "Jan 11 2018",
+            "y": null
+          },
+          {
+            "x": "Jan 12 2018",
+            "y": null
+          },
+          {
+            "x": "Jan 13 2018",
+            "y": 13
+          },
+          {
+            "x": "Jan 14 2018",
+            "y": null
+          }
+        ]
+      }
+    ],
+    "options": {
+      "chart": {
+        "animations": {
+          "enabled": false
+        },
+        "zoom": {
+          "enabled": false
+        }
+      },
+      "dataLabels": {
+        "enabled": false
+      },
+      "stroke": {
+        "curve": "straight"
+      },
+      "fill": {
+        "opacity": 0.8,
+        "type": "pattern",
+        "pattern": {
+          "style": ["verticalLines", "horizontalLines"],
+          "width": 5,
+          "height": 6
+        }
+      },
+      "markers": {
+        "size": 5,
+        "hover": {
+          "size": 9
+        }
+      },
+      "title": {
+        "text": "Network Monitoring"
+      },
+      "tooltip": {
+        "intersect": true,
+        "shared": false
+      },
+      "theme": {
+        "palette": "palette1"
+      },
+      "xaxis": {
+        "type": "datetime"
+      },
+      "yaxis": {
+        "title": {
+          "text": "Bytes Received"
+        }
+      }
+    }
+  }
+]

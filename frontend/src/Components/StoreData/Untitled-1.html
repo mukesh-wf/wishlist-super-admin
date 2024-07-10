@@ -1,0 +1,30 @@
+  <p>Status :</p>
+                    <Controller
+                      name="status"
+                      control={control}
+                      defaultValue={initialStatus}
+                      render={({ field }) =>
+                        <Form.Select aria-label="Default select example" {...field}>
+                          <option value="" >All</option>
+                          <option value="active">Active</option>
+                          <option value="inActive">inActive</option>
+                        </Form.Select>
+                      }
+                    /> 
+
+                    <Col sm={2}>
+                      <div className='grid-box-heading'>
+                        <div className="boxsize boxsize-transparent">
+                          <button className={youtubeMedia === 'all' ? "active" : undefined} onClick={weekYoutubeHandler}>All</button>
+                          <button className={youtubeMedia === 'active' ? "active" : undefined} onClick={monthYoutubeHandler}>Active</button>
+                          <button className={youtubeMedia === 'inactive' ? "active" : undefined} onClick={yearYoutubeHandler}>Inactive</button>
+                        </div>
+                      </div>
+                    </Col>
+
+                    <Paginate
+              tasksPerPage={itemsPerPage}
+              totalTasks={filteredData.length}
+              data={filteredData}
+              page={page}
+            /> 

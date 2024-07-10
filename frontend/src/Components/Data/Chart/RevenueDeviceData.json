@@ -1,0 +1,94 @@
+[
+  {
+    "name": "todayData",
+    "data": [
+      {
+        "name": "Desktop",
+        "revenue": "$83",
+        "value": 83,
+        "ratio": "45%"
+      },
+      {
+        "name": "Mobile",
+        "revenue": "$70",
+        "value": 70,
+        "ratio": "45%"
+      },
+      {
+        "name": "Tablets",
+        "value": 83,
+        "revenue": "$20",
+        "ratio": "45%"
+      }
+    ]
+  },
+  {
+    "name": "weekData",
+    "data": [
+      {
+        "name": "Desktop",
+        "revenue": "$483",
+        "value": 483,
+        "ratio": "45%"
+      },
+      {
+        "name": "Mobile",
+        "revenue": "$870",
+        "value": 870,
+        "ratio": "45%"
+      },
+      {
+        "name": "Tablets",
+        "revenue": "$420",
+        "value": 420,
+        "ratio": "45%"
+      }
+    ]
+  },
+  {
+    "name": "monthData",
+    "data": [
+      {
+        "name": "Desktop",
+        "revenue": "$4483",
+        "value": 4483,
+        "ratio": "45%"
+      },
+      {
+        "name": "Mobile",
+        "revenue": "$5870",
+        "value": 5870,
+        "ratio": "45%"
+      },
+      {
+        "name": "Tablets",
+        "revenue": "$2420",
+        "value": 2420,
+        "ratio": "45%"
+      }
+    ]
+  },
+  {
+    "name": "yearData",
+    "data": [
+      {
+        "name": "Desktop",
+        "revenue": "$9483",
+        "value": 9483,
+        "ratio": "45%"
+      },
+      {
+        "name": "Mobile",
+        "revenue": "$13870",
+        "value": 13870,
+        "ratio": "45%"
+      },
+      {
+        "name": "Tablets",
+        "value": 15420,
+        "revenue": "$15420",
+        "ratio": "45%"
+      }
+    ]
+  }
+]

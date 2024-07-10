@@ -1,0 +1,79 @@
+[
+  {
+    "orderId": "#01=0002",
+    "customer": "Andrew Tie",
+    "status": "Shipped",
+    "amount": "$104,002",
+    "date": "23 March 2022"
+  },
+  {
+    "orderId": "#01=0003",
+    "customer": "Simon Dull",
+    "status": "Canceled",
+    "amount": "$41,302",
+    "date": "26 March 2022"
+  },
+  {
+    "orderId": "#01=0004",
+    "customer": "Simon Dull",
+    "status": "Canceled",
+    "amount": "$41,302",
+    "date": "26 March 2022"
+  },
+  {
+    "orderId": "#01=0005",
+    "customer": "Jessica",
+    "status": "Shipped",
+    "amount": "$904,302",
+    "date": "31 March 2022"
+  },
+  {
+    "orderId": "#01=0006",
+    "customer": "Shakib",
+    "status": "Shipped",
+    "amount": "$904,302",
+    "date": "31 March 2022"
+  },
+  {
+    "orderId": "#01=0007",
+    "customer": "Michal Clark",
+    "status": "Canceled",
+    "amount": "$333,201",
+    "date": "04 April 2022"
+  },
+  {
+    "orderId": "#01=0008",
+    "customer": "John Doe",
+    "status": "Awaiting Shipment",
+    "amount": "$99,302",
+    "date": "10 April 2022"
+  },
+  {
+    "orderId": "#01=0011",
+    "customer": "Dean Ambrose",
+    "status": "Canceled",
+    "amount": "$100,302",
+    "date": "11 April 2022"
+  },
+  {
+    "orderId": "#01=0012",
+    "customer": "Kevin",
+    "status": "Awaiting Shipment",
+    "amount": "$60,302",
+    "date": "13 April 2022"
+  },
+  {
+    "orderId": "#01=0013",
+    "customer": "Rusev",
+    "status": "Shipped",
+    "amount": "$177,302",
+    "date": "130 May 2022"
+  },
+  {
+    "orderId": "#01=0014",
+    "customer": "Cory Anderson",
+    "status": "Shipped",
+    "amount": "$600,302",
+    "date": "19 April 2022"
+  }
+]

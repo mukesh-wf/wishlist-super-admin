@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Sun",
+    "Gain": 2400,
+    "Loss": 4000,
+    "amt": 2400
+  },
+
+  {
+    "name": "Mon",
+    "Gain": 1398,
+    "Loss": 3000,
+    "amt": 2210
+  },
+
+  {
+    "name": "Tue",
+    "Gain": 9800,
+    "Loss": 2000,
+    "amt": 2290
+  },
+
+  {
+    "name": "Wed",
+    "Gain": 3908,
+    "Loss": 2780,
+    "amt": 2000
+  },
+
+  {
+    "name": "Thu",
+    "Gain": 4800,
+    "Loss": 1890,
+    "amt": 2181
+  },
+
+  {
+    "name": "Fri",
+    "Gain": 3800,
+    "Loss": 2390,
+    "amt": 2500
+  },
+
+  {
+    "name": "Sat",
+    "Gain": 4300,
+    "Loss": 3490,
+    "amt": 2100
+  }
+]

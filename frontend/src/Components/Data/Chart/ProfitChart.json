@@ -1,0 +1,84 @@
+[
+  {
+    "name": "netprofit",
+    "Data": [
+      {
+        "Name": "Jan",
+        "Net": 30
+      },
+      {
+        "Name": "Feb",
+        "Net": 10
+      },
+      {
+        "Name": "Mar",
+        "Net": 20
+      },
+      {
+        "Name": "April",
+        "Net": 25
+      },
+      {
+        "Name": "May",
+        "Net": 20
+      },
+      {
+        "Name": "June",
+        "Net": 30
+      },
+      {
+        "Name": "July",
+        "Net": 15
+      },
+      {
+        "Name": "Sep",
+        "Net": 25
+      },
+      {
+        "Name": "Oct",
+        "Net": 15
+      }
+    ]
+  },
+  {
+    "name": "grossprofit",
+    "Data": [
+      {
+        "Name": "Jan",
+        "Gross": 30
+      },
+      {
+        "Name": "Feb",
+        "Gross": 10
+      },
+      {
+        "Name": "Mar",
+        "Gross": 20
+      },
+      {
+        "Name": "April",
+        "Gross": 25
+      },
+      {
+        "Name": "May",
+        "Gross": 20
+      },
+      {
+        "Name": "June",
+        "Gross": 30
+      },
+      {
+        "Name": "July",
+        "Gross": 15
+      },
+      {
+        "Name": "Sep",
+        "Gross": 25
+      },
+      {
+        "Name": "Oct",
+        "Gross": 15
+      }
+    ]
+  }
+]

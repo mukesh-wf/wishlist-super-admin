@@ -1,0 +1,168 @@
+.areachart {
+  margin: 0 auto;
+  background-color: "red";
+}
+
+.areachart1 {
+  width: 529px !important;
+  height: 100%;
+  position: relative;
+  left: -133px;
+  top: 10px;
+}
+
+.areachart1 .recharts-legend-wrapper {
+  top: 45.333px !important;
+}
+
+.radialchart {
+  padding: 0px 6px;
+}
+
+.recharts-responsive-container.areachart .recharts-wrapper {
+  background-color: #ededed;
+  padding-top: 3px;
+  border-radius: 10px;
+}
+
+
+.left-side-layout {
+  top: 0;
+  width: 5%;
+}
+
+.btn.btn-primary {
+  margin: 5px;
+}
+.drawerChange {
+  margin-left: 0 !important;
+  width: 100% !important;
+}
+
+.rowClick .drawerChange {
+  margin-left: 5.666667% !important;
+}
+
+.nav-list .nav-link {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+a.nav-link {
+  display: flex;
+  align-items: center;
+}
+
+.accordion {
+  padding: 0px 0px !important;
+}
+
+.accordion-item {
+  border: 0px !important;
+}
+
+.list-group-item {
+  height: 50px !important;
+  line-height: 40px !important;
+  list-style-position: inside;
+  list-style-type: disc;
+  background: #000 !important;
+  color: #fff !important;
+}
+
+
+
+.accordion-button::after {
+  border: solid !important;
+  border-width: 0 1px 1px 0 !important;
+  display: inline-block !important;
+  padding: 0px !important;
+  width: 12px !important;
+  height: 12px !important;
+  transform: rotate(47deg) !important;
+  background-image: none !important;
+}
+
+.list-group-item {
+  border: 0px !important;
+}
+
+button.accordion-button.collapsed {
+  padding: 0 20px 0px 0px !important;
+}
+
+button.accordion-button {
+  padding: 0px 15px 0px 0px !important;
+}
+
+a#basic-nav-dropdown {
+  display: inline !important;
+  margin: 0px auto;
+  padding: 0px 0 0 30px;
+  font-size: 14px;
+}
+
+
+
+.dropdown-menu.show {
+  display: block;
+  width: 20%;
+  text-align: left;
+  padding: 0px 4px;
+}
+
+.nav-item.show.dropdown {
+  width: auto;
+}
+
+
+.right-side-layout.col-lg-2 {
+  position: fixed;
+  right: -23px;
+  top: 0px;
+  z-index: 999;
+}
+
+.right-side-layout .space-toggle nav.nav {
+  padding-top: 37px;
+}
+
+.ContentPage.col-lg-10 .setting-imgs .right-side-layout {
+  left: 30px !important;
+}
+
+.SocialMain.row {
+  margin-left: 51px;
+  font-family: auto;
+  letter-spacing: 0px;
+  color: #159315;
+  margin-top: 32px;
+  word-spacing: 3px;
+}
+
+.calenderMonth {
+  display: flex;
+  gap: 26px;
+  margin-top: 7px;
+}
+
+.calenderYear {
+  display: flex;
+  gap: 26px;
+  margin-left: -36px;
+  margin-top: 10px;
+}
+
+.calenderDay {
+  display: flex;
+  gap: 26px;
+  margin-left: 1px;
+  margin-top: 7px;
+}
+.ddrop.col .dropdown-menu.show {
+  top: 30px;
+  left: -75px;
+}
+
+

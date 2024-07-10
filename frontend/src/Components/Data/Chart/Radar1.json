@@ -1,0 +1,74 @@
+[
+  {
+    "subject": "Jan",
+    "A": 120,
+    "B": 110,
+    "fullMark": 150
+  },
+  {
+    "subject": "Feb",
+    "A": 98,
+    "B": 130,
+    "fullMark": 150
+  },
+  {
+    "subject": "Mar",
+    "A": 86,
+    "B": 130,
+    "fullMark": 150
+  },
+  {
+    "subject": "Apr",
+    "A": 99,
+    "B": 100,
+    "fullMark": 150
+  },
+  {
+    "subject": "May",
+    "A": 85,
+    "B": 90,
+    "fullMark": 150
+  },
+  {
+    "subject": "Jun",
+    "A": 65,
+    "B": 85,
+    "fullMark": 150
+  },
+  {
+    "subject": "Jul",
+    "A": 65,
+    "B": 85,
+    "fullMark": 150
+  },
+  {
+    "subject": "Aug",
+    "A": 65,
+    "B": 85,
+    "fullMark": 150
+  },
+  {
+    "subject": "Sep",
+    "A": 65,
+    "B": 85,
+    "fullMark": 150
+  },
+  {
+    "subject": "Oct",
+    "A": 65,
+    "B": 85,
+    "fullMark": 150
+  },
+  {
+    "subject": "Nov",
+    "A": 65,
+    "B": 85,
+    "fullMark": 150
+  },
+  {
+    "subject": "Dec",
+    "A": 65,
+    "B": 85,
+    "fullMark": 150
+  }
+]

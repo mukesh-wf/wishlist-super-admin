@@ -1,0 +1,153 @@
+[
+  {
+    "name": "weekData",
+    "CashIn": "$4,224",
+    "CashOut": "$5,768",
+    "CurrentBalance": "$7,098",
+    "data": [
+      {
+        "Name": "Sun",
+        "Cash in": 20,
+        "Cash out": 10
+      },
+      {
+        "Name": "Mon",
+        "Cash in": 60,
+        "Cash out": 40
+      },
+      {
+        "Name": "Tue",
+        "Cash in": 50,
+        "Cash out": 30
+      },
+      {
+        "Name": "Wed",
+        "Cash in": 45,
+        "Cash out": 45
+      },
+      {
+        "Name": "Thu",
+        "Cash in": 50,
+        "Cash out": 60
+      },
+      {
+        "Name": "Fri",
+        "Cash in": 60,
+        "Cash out": 55
+      },
+      {
+        "Name": "Sat",
+        "Cash in": 70,
+        "Cash out": 45
+      }
+    ]
+  },
+
+  {
+    "name": "monthData",
+    "CashIn": "$45,224",
+    "CashOut": "$25,768",
+    "CurrentBalance": "$37,098",
+    "data": [
+      {
+        "Name": "1-5",
+        "Cash in": 20,
+        "Cash out": 10
+      },
+      {
+        "Name": "6-10",
+        "Cash in": 60,
+        "Cash out": 40
+      },
+      {
+        "Name": "11-15",
+        "Cash in": 50,
+        "Cash out": 30
+      },
+      {
+        "Name": "16-20",
+        "Cash in": 45,
+        "Cash out": 40
+      },
+      {
+        "Name": "21-25",
+        "Cash in": 50,
+        "Cash out": 60
+      },
+      {
+        "Name": "26-31",
+        "Cash in": 60,
+        "Cash out": 55
+      }
+    ]
+  },
+
+  {
+    "name": "yearData",
+    "CashIn": "$84,224",
+    "CashOut": "$95,768",
+    "CurrentBalance": "$57,778",
+    "data": [
+      {
+        "Name": "Jan",
+        "Cash in": 20,
+        "Cash out": 10
+      },
+      {
+        "Name": "Feb",
+        "Cash in": 60,
+        "Cash out": 40
+      },
+      {
+        "Name": "Mar",
+        "Cash in": 50,
+        "Cash out": 30
+      },
+      {
+        "Name": "Apr",
+        "Cash in": 45,
+        "Cash out": 40
+      },
+      {
+        "Name": "May",
+        "Cash in": 50,
+        "Cash out": 60
+      },
+      {
+        "Name": "Jun",
+        "Cash in": 60,
+        "Cash out": 55
+      },
+      {
+        "Name": "Jul",
+        "Cash in": 70,
+        "Cash out": 45
+      },
+      {
+        "Name": "Aug",
+        "Cash in": 40,
+        "Cash out": 35
+      },
+      {
+        "Name": "Sep",
+        "Cash in": 45,
+        "Cash out": 30
+      },
+      {
+        "Name": "Oct",
+        "Cash in": 25,
+        "Cash out": 15
+      },
+      {
+        "Name": "Nov",
+        "Cash in": "45",
+        "Cash out": "30"
+      },
+      {
+        "Name": "Dec",
+        "Cash in": 30,
+        "Cash out": 20
+      }
+    ]
+  }
+]

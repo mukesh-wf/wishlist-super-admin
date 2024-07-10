@@ -1,0 +1,148 @@
+[
+  {
+    "name": "weekData",
+    "growth": "25%",
+    "sub": "20,325",
+    "data": [
+      {
+        "Name": "Sun",
+        "Gained": 1000,
+        "Lost": 800
+      },
+      {
+        "Name": "Mon",
+        "Gained": 5000,
+        "Lost": 3500
+      },
+      {
+        "Name": "Tue",
+        "Gained": 1500,
+        "Lost": 1000
+      },
+      {
+        "Name": "Wed",
+        "Gained": 10000,
+        "Lost": 9000
+      },
+      {
+        "Name": "Thu",
+        "Gained": 14000,
+        "Lost": 10000
+      },
+      {
+        "Name": "Fri",
+        "Gained": 24000,
+        "Lost": 14000
+      },
+      {
+        "Name": "Sat",
+        "Gained": 20000,
+        "Lost": 15000
+      }
+    ]
+  },
+  {
+    "name": "monthData",
+    "growth": "50%",
+    "sub": "201,325",
+    "data": [
+      {
+        "Name": "1-5",
+        "Gained": 25000,
+        "Lost": 20000
+      },
+      {
+        "Name": "6-10",
+        "Gained": 50000,
+        "Lost": 40000
+      },
+      {
+        "Name": "11-15",
+        "Gained": 15000,
+        "Lost": 12000
+      },
+      {
+        "Name": "16-20",
+        "Gained": 15000,
+        "Lost": 13000
+      },
+      {
+        "Name": "21-25",
+        "Gained": 40000,
+        "Lost": 30000
+      },
+      {
+        "Name": "26-31",
+        "Gained": 24000,
+        "Lost": 20000
+      }
+    ]
+  },
+  {
+    "name": "yearData",
+    "growth": "75%",
+    "sub": "620,325",
+    "data": [
+      {
+        "Name": "Jan",
+        "Gained": 95000,
+        "Lost": 90000
+      },
+      {
+        "Name": "Feb",
+        "Gained": 55000,
+        "Lost": 50000
+      },
+      {
+        "Name": "Mar",
+        "Gained": 19000,
+        "Lost": 20000
+      },
+      {
+        "Name": "Apr",
+        "Gained": 55000,
+        "Lost": 50000
+      },
+      {
+        "Name": "May",
+        "Gained": 90000,
+        "Lost": 80000
+      },
+      {
+        "Name": "Jun",
+        "Gained": 240000,
+        "Lost": 300000
+      },
+      {
+        "Name": "Jul",
+        "Gained": 95000,
+        "Lost": 90000
+      },
+      {
+        "Name": "Aug",
+        "Gained": 55000,
+        "Lost": 55000
+      },
+      {
+        "Name": "Sep",
+        "Gained": 19000,
+        "Lost": 23000
+      },
+      {
+        "Name": "Oct",
+        "Gained": 55000,
+        "Lost": 50000
+      },
+      {
+        "Name": "Nov",
+        "Gained": 90000,
+        "Lost": 80000
+      },
+      {
+        "Name": "Dec",
+        "Gained": 240000,
+        "Lost": 200000
+      }
+    ]
+  }
+]

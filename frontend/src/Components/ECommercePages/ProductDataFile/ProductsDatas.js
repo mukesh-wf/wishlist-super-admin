@@ -1,0 +1,291 @@
+export const productDatas = [
+  {
+    id: 1,
+    name: 'Slice',
+    color: 'Yellow',
+    size: 'Large',
+    brand: 'juices',
+    category: 'drinks',
+    price: 1000,
+    off: '60% off',
+    oldPrice: '$1300',
+    starDes: '778',
+    dateCreated: '2019-04-03T21:00:00+00:00',
+    star: 1,
+    wishlist: 'black',
+    des: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    img: 'https://demo.dashboardmarket.com/strikingdash-vue/img/11.808c1d77.png'
+  },
+  {
+    id: 2,
+    name: 'Dinner Plate',
+    color: 'White',
+    size: 'Small',
+    brand: 'plates',
+    category: 'kitchens',
+    price: 214,
+    off: '',
+    oldPrice: '',
+    starDes: '1778',
+    dateCreated: '2019-04-07T21:00:00+00:00',
+    star: 3,
+    wishlist: 'black',
+    des: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    img: 'https://demo.dashboardmarket.com/strikingdash-vue/img/6.759db7fb.png'
+  },
+  {
+    id: 3,
+    name: 'Montes',
+    color: 'Black',
+    size: 'Small',
+    brand: 'chairs',
+    category: 'furnitures',
+    price: 541,
+    off: '60% off',
+    oldPrice: '$980',
+    starDes: '7278',
+    dateCreated: '2020-04-03T21:00:00+00:00',
+    star: 4,
+    wishlist: 'black',
+    des: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    img: 'https://demo.dashboardmarket.com/strikingdash-vue/img/7.b355c3b6.png'
+  },
+  {
+    id: 4,
+    name: 'Hanging Lamp',
+    color: 'Golden',
+    size: 'Small',
+    brand: 'chairs',
+    category: 'furnitures',
+    price: 1500,
+    off: '60% off',
+    oldPrice: '$2100',
+    starDes: '578',
+    dateCreated: '2019-09-03T21:00:00+00:00',
+    star: 3,
+    wishlist: 'black',
+    des: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    img: 'https://demo.dashboardmarket.com/strikingdash-vue/img/1.afe1b7ce.png'
+  },
+  {
+    id: 5,
+    name: 'Rubi adjustable table',
+    color: 'Black',
+    size: 'Large',
+    brand: 'tables',
+    category: 'furnitures',
+    price: 1000,
+    off: '',
+    oldPrice: '',
+    starDes: '278',
+    dateCreated: '2023-04-03T21:00:00+00:00',
+    star: 3,
+    wishlist: 'black',
+    des: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIX-F5LZ2nFdAUwDuDrh99LFmzs3OzDrS5pQ&usqp=CAU'
+  },
+  {
+    id: 6,
+    name: 'Orange Juice',
+    color: 'Orange',
+    size: 'Small',
+    brand: 'juices',
+    category: 'drinks',
+    price: 321,
+    off: '60% off',
+    oldPrice: '$621',
+    starDes: '700',
+    dateCreated: '2023-01-03T21:00:00+00:00',
+    star: 5,
+    wishlist: 'black',
+    des: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    img: 'https://demo.dashboardmarket.com/strikingdash-vue/img/8.b487d1a3.png'
+  },
+  {
+    id: 7,
+    name: 'Leo Sodales',
+    color: 'White',
+    size: 'Medium',
+    brand: 'chairs',
+    category: 'kitchens',
+    price: 1200,
+    off: '60% off',
+    oldPrice: '$1421',
+    starDes: '1001',
+    dateCreated: '2021-04-03T21:00:00+00:00',
+    star: 5,
+    wishlist: 'black',
+    des: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    img: 'https://demo.dashboardmarket.com/strikingdash-vue/img/5.4f747cad.png'
+  },
+  {
+    id: 8,
+    name: 'Hanging Lamp',
+    color: 'White',
+    size: 'Small',
+    brand: 'chairs',
+    category: 'furnitures',
+    price: 100,
+    off: '',
+    oldPrice: '',
+    starDes: '1245',
+    dateCreated: '2022-04-19T21:00:00+00:00',
+    star: 2,
+    wishlist: 'black',
+    des: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    img: 'https://demo.dashboardmarket.com/strikingdash-vue/img/3.9fea4bbc.png'
+  },
+  {
+    id: 9,
+    name: 'Scelerisque',
+    color: 'Yellow',
+    size: 'Large',
+    brand: 'chairs',
+    category: 'chairs',
+    price: 745,
+    off: '60% off',
+    oldPrice: '$999',
+    starDes: '2000',
+    dateCreated: '2021-10-03T21:00:00+00:00',
+    star: 4,
+    wishlist: 'black',
+    des: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    img: 'https://demo.dashboardmarket.com/strikingdash-vue/img/10.221e0d21.png'
+  },
+  {
+    id: 10,
+    name: 'Adipiscing',
+    color: 'Yallow',
+    size: 'Large',
+    brand: 'cups',
+    category: 'kitchens',
+    price: 1452,
+    off: '',
+    oldPrice: '',
+    starDes: '321',
+    dateCreated: '2021-02-03T21:00:00+00:00',
+    star: 2,
+    wishlist: 'black',
+    des: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    img: 'https://demo.dashboardmarket.com/strikingdash-vue/img/4.c784e506.png'
+  },
+  {
+    id: 11,
+    name: 'Montes Scelerisque',
+    color: 'Black',
+    size: 'Medium',
+    brand: 'chairs',
+    category: 'furnitures',
+    price: 111,
+    off: '',
+    oldPrice: '',
+    starDes: '5000',
+    dateCreated: '2022-12-03T21:00:00+00:00',
+    star: 4,
+    wishlist: 'black',
+    des: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    img: 'https://demo.dashboardmarket.com/strikingdash-vue/img/7.b355c3b6.png'
+  },
+  {
+    id: 12,
+    name: 'Chair',
+    color: 'White',
+    size: 'Large',
+    brand: 'chairs',
+    category: 'chairs',
+    price: 895,
+    off: '60% off',
+    oldPrice: '$1000',
+    starDes: '4120',
+    dateCreated: '2018-04-30T21:00:00+00:00',
+    star: 5,
+    wishlist: 'black',
+    des: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    img: 'https://demo.dashboardmarket.com/strikingdash-vue/img/12.9371258f.png'
+  },
+  {
+    id: 13,
+    name: 'Bisleri Water',
+    color: 'Orange',
+    size: 'Small',
+    brand: 'water',
+    category: 'drinks',
+    price: 150,
+    off: '60% off',
+    oldPrice: '$221',
+    starDes: '650',
+    dateCreated: '2023-01-05T21:00:00+00:00',
+    star: 5,
+    wishlist: 'black',
+    des: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolFk-HKhN3HO5UTvE_UxuIhwvWl1h3wVE1g&usqp=CAU'
+  },
+  {
+    id: 14,
+    name: 'Melamine Plate',
+    color: 'Black',
+    size: 'Medium',
+    brand: 'plates',
+    category: 'kitchens',
+    price: 950,
+    off: '60% off',
+    oldPrice: '$1521',
+    starDes: '890',
+    dateCreated: '2023-01-10T21:00:00+00:00',
+    star: 5,
+    wishlist: 'black',
+    des: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK5S-kZJO6YVxDlYjWaPjUwhBP6CZ6wHsLFw&usqp=CAU'
+  }
+
+]
+
+
+
+
+export const starList = [
+  {
+    id: 5,
+    value: 5,
+    checked: false,
+    label: '5',
+    starRating: '5 star'
+  }, {
+    id: 4,
+    value: 4,
+    checked: false,
+    label: '4',
+    starRating: '4 star'
+  }, {
+    id: 3,
+    value: 3,
+    checked: false,
+    label: '3',
+    starRating: '3 star'
+  }, {
+    id: 2,
+    value: 2,
+    checked: false,
+    label: '2',
+    starRating: '2 star'
+  }, {
+    id: 1,
+    value: 1,
+    checked: false,
+    label: '1',
+    starRating: '1 star'
+  }
+]
+
+export const categoryList = [
+  { id: 1, checked: false, label: 'Drinks' },
+  { id: 2, checked: false, label: 'Kitchens' },
+  { id: 3, checked: false, label: 'Furnitures' }
+]
+
+export const brandList = [
+  { id: 1, checked: false, label: 'Plates' },
+  { id: 2, checked: false, label: 'Cups' },
+  { id: 3, checked: false, label: 'Juices' },
+  { id: 4, checked: false, label: 'Chairs' }
+]

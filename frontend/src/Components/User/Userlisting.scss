@@ -1,0 +1,316 @@
+@use 'sass:math';
+
+$white-color:#fff;
+$orange-color:#f5aa33;
+$darkgrey-color:#272b41;
+$lightdarkgrey-color :#9299b803;
+
+.userListing {
+
+    button {
+        color:$darkgrey-color;
+    &:hover, &:focus {
+        background:$orange-color;
+        color:$white-color;
+        border:none;
+
+        svg {
+            color:$white-color;
+        }
+    }
+}
+.dropdown-menu.show {
+    padding: 10px 0;
+    border: 1px solid $orange-color;
+    width: 100%;
+
+    a.dropdown-item {
+        padding: 5px 10px;
+        font-size: 12px;
+        font-weight: 500;
+        color:$darkgrey-color; 
+
+        &:hover, &:focus {
+            background:$orange-color;
+            color:$white-color;
+        }
+    }
+}
+}
+.main-layout .UserListing-row {
+    width: 100%;
+    margin: 0 0 40px;
+    padding: 0 20px;    
+}
+.userListing-box {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    // justify-content: center;
+    background:$white-color;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0 5px 20px $lightdarkgrey-color;
+    margin: 0;
+
+    h3 {
+        padding: 0 0 5px;
+        line-height: 1.4;
+        color: $darkgrey-color;
+        font-weight: 600;
+        font-size: 15px;
+        margin: 0;
+        display: block;
+        width: 100%;
+        text-align: center;  
+        text-transform: uppercase; 
+    }
+    h4 {
+        padding: 0;
+        line-height: 1.4;
+        color: $orange-color;
+        font-weight: 800;
+        font-size:22px;
+        margin: 0;
+        display: block;
+        text-align: center;
+        width: 100%;  
+    }
+}
+.main-layout .UserListing-role {
+    width: 100%;
+    margin: 0 0 40px;
+    padding: 0 20px;   
+
+    label {
+        padding: 0 0 5px;
+        line-height: 1.4;
+        color:$darkgrey-color;
+        font-weight: 400;
+        font-size: 15px;
+        margin: 0;
+        display: block;   
+    }
+    select {
+        padding: 8px 10px;
+        line-height: 1.4;
+        color:$darkgrey-color;
+        font-weight: 400;
+        font-size: 15px;
+        margin: 0;
+        display: block;
+        border: none;
+        cursor:pointer;
+        
+        &:hover, &:focus {
+            border-color: transparent;
+            box-shadow: none;   
+        }
+    }
+    .boxsize {
+        align-items: flex-end;  
+        button {
+            background:$orange-color;
+            color: $white-color;
+            border-color:$orange-color;
+        }
+    }
+    .listviewicons {
+        font-size: 25px;
+        display: flex;
+        gap: 10px;
+        justify-content: flex-end;
+        align-items: center;
+        cursor:pointer;
+        svg {
+            color: $darkgrey-color;    
+        }
+    }
+}
+.userlist-box {
+    .row {
+        margin: 0;
+    }
+    .card {
+        width:100%;
+        border: none;
+        box-shadow: 0 5px 20px $lightdarkgrey-color;
+        padding: 20px;
+        img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin: 0 auto 20px;
+            border: 2px solid $orange-color;
+            padding: 5px;
+        }
+        .card-body {
+            padding: 0;
+            h3 {
+                font-size: 16px;
+                font-weight: 600;
+                line-height: 1.5715;
+                color:$darkgrey-color;
+                text-align: center;
+                margin:0;
+            }
+            h4 {
+                font-weight: 500;
+                color: #5a5f7d;
+                line-height: 1.5715;
+                font-size: 14px;
+                text-align: center;    
+                margin: 0 0 20px;
+            }
+        }
+        .userlisting-btn {
+            justify-content: space-between;
+            button, a {
+                font-size: 13px;
+                padding: 0px 15px;
+                height: 38px;
+                border-radius: 4px;
+                box-shadow: 0px 3px 5px #9299B805;
+                background: transparent;
+                border: 1px solid #F1F2F6;
+                color:$orange-color;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                text-align: center; 
+                max-width:75px;  
+            }
+            i.fa-solid.fa-pen-to-square {
+                color:$orange-color; 
+            }
+        }
+    }
+    .btn-success, .btn-danger {
+        height:30px;
+        line-height:14px;
+        font-size: 12px;
+        font-weight: 500;
+        padding: 0 15px;
+        color:$white-color;
+        outline: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 3px;
+        text-transform: uppercase;
+        margin: 0 auto;
+        max-width: 90px;
+        width: 100%;    
+    }
+   .pagination {
+            li.active span {
+              background:$orange-color;
+              border-color: $orange-color;  
+            }
+            a {
+            border-color: $orange-color;
+            color: $orange-color;
+        span {
+            color: $orange-color;   
+        }
+    }
+   }
+   h1 {
+    margin: 0;
+    font-size: 1.5rem;
+   }
+}
+.formBox  {
+    .row {
+        margin: 0 30px 50px;
+        box-shadow: 0 5px 20px $lightdarkgrey-color;
+        background: $white-color;
+        padding: 30px 15px;
+        border-radius: 10px; 
+    } 
+    label {
+        line-height: 1.45;
+        padding: 0 0 8px;
+        color:$darkgrey-color;
+        font-size: 14px;
+        display: block;   
+    }  
+    input[type="text"], select, input[type="date"] {
+        padding: 12px 11px;
+        color: #5A5F7D;
+        font-size: 14px;
+        line-height: 1.5715;
+        background-color:$white-color;
+        background-image: none;
+        border: 1px solid #e3e6ef;
+        border-radius: 4px;
+        transition: all .3s; 
+        
+        &:focus {
+            box-shadow:none;
+            border-color:$orange-color;    
+        }
+    }
+    .col-md-6, .col-md-12 {
+        margin-bottom:15px;   
+    }
+    .formCheck-box {
+        display: flex;
+        gap: 0 20px;
+        align-items: center;    
+        label {
+            padding: 0;  
+            text-transform: capitalize; 
+        }
+        .form-check {
+            margin: 0;           
+        }
+    }
+    .form-check {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        label {
+            padding: 0;
+        }
+    }
+    button {
+        height: 36px;
+        line-height: 28px;
+        font-size: 12px;
+        font-weight: 500;
+        padding: 0 15px;
+        color: $white-color;
+        border: 1px solid $orange-color;
+        outline: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 4px;
+        background:$orange-color;
+        margin: 0;
+        
+        &:hover, &:focus {
+            background: transparent;
+            border-color:$orange-color;
+            color:$orange-color;    
+        }
+    }
+    .form-check-input:checked {
+        background-color:$orange-color;
+        border-color:$orange-color;
+    } 
+}
+.tbllisting-page .btn.btn-primary {
+    background: transparent;
+    border: none;
+    color: #ADB4D2;
+    font-size: 13px;
+    line-height: 13px;
+    margin: 0;
+    padding: 0;
+}
+.tbllisting-page .btn.btn-primary i {
+    color: #ADB4D2;    
+}

@@ -1,0 +1,238 @@
+[
+  {
+    "name": "todayData",
+    "data": [
+      {
+        "name": "Facebook",
+        "users": "3,397",
+        "newusers": "422",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Twitter",
+        "users": "2,397",
+        "newusers": "422",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Linkedin",
+        "users": "1,397",
+        "newusers": "422",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Youtube",
+        "users": "4,397",
+        "newusers": "422",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Pinterest",
+        "users": "597",
+        "newusers": "422",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Google+",
+        "users": "3,397",
+        "newusers": "422",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      }
+    ]
+  },
+  {
+    "name": "weekData",
+    "data": [
+      {
+        "name": "Facebook",
+        "users": "7,397",
+        "newusers": "1402",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Twitter",
+        "users": "5,397",
+        "newusers": "1020",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Linkedin",
+        "users": "4,397",
+        "newusers": "1200",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Youtube",
+        "users": "15,397",
+        "newusers": "10020",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Pinterest",
+        "users": "1200",
+        "newusers": "622",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Google+",
+        "users": "8,397",
+        "newusers": "2500",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      }
+    ]
+  },
+  {
+    "name": "monthData",
+    "data": [
+      {
+        "name": "Facebook",
+        "users": "17,397",
+        "newusers": "5002",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Twitter",
+        "users": "15,397",
+        "newusers": "6000",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Linkedin",
+        "users": "12,397",
+        "newusers": "4002",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Youtube",
+        "users": "35,397",
+        "newusers": "10010",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Pinterest",
+        "users": "7000",
+        "newusers": "3200",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Google+",
+        "users": "17,397",
+        "newusers": "5000",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      }
+    ]
+  },
+  {
+    "name": "yearData",
+    "data": [
+      {
+        "name": "Facebook",
+        "users": "70,397",
+        "newusers": "25002",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Twitter",
+        "users": "60,397",
+        "newusers": "35100",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Linkedin",
+        "users": "40020",
+        "newusers": "20010",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Youtube",
+        "users": "90,397",
+        "newusers": "50010",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Pinterest",
+        "users": "25000",
+        "newusers": "12010",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      },
+      {
+        "name": "Google+",
+        "users": "57,397",
+        "newusers": "45000",
+        "sessions": "2,584",
+        "bounceRate": "30.35%",
+        "page": "2.50",
+        "sessionDuration": "00:01:05"
+      }
+    ]
+  }
+]

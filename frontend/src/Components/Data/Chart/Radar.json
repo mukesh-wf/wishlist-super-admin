@@ -1,0 +1,38 @@
+[
+  {
+    "subject": "Sun",
+    "A": 120,
+    "B": 110,
+    "fullMark": 150
+  },
+  {
+    "subject": "Mon",
+    "A": 98,
+    "B": 130,
+    "fullMark": 150
+  },
+  {
+    "subject": "Tue",
+    "A": 86,
+    "B": 130,
+    "fullMark": 150
+  },
+  {
+    "subject": "Wed",
+    "A": 99,
+    "B": 100,
+    "fullMark": 150
+  },
+  {
+    "subject": "Thu",
+    "A": 85,
+    "B": 90,
+    "fullMark": 150
+  },
+  {
+    "subject": "Fri",
+    "A": 65,
+    "B": 85,
+    "fullMark": 150
+  }
+]

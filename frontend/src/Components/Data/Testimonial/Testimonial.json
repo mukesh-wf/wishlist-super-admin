@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Lucky",
+        "role": "UI/UX Designer",
+        "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/1.459b89d8.png",
+        "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever."
+    },
+    {
+        "id": 2,
+        "name": "Kingston",
+        "role": "App Developer",
+        "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/3.f520b68e.png",
+        "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever."
+    },
+    {
+        "id": 3,
+        "name": "Kofi",
+        "role": "Android Developer",
+        "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/8.419c8c3d.png",
+        "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever."
+    },
+    {
+        "id": 4,
+        "name": "John Carter",
+        "role": "Web Developer",
+        "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/5.c786de1c.png",
+        "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever."
+    },
+    {
+        "id": 5,
+        "name": "Liam",
+        "role": "Network Engineer",
+        "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/6.8a620d51.png",
+        "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever."
+    },
+    {
+        "id": 6,
+        "name": "Chris Jorden",
+        "role": "Web Developer",
+        "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/7.0bd01559.png",
+        "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever."
+    },
+    {
+        "id": 7,
+        "name": "Romen",
+        "role": "ios Developer",
+        "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/5.c786de1c.png",
+        "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever."
+    },
+    {
+        "id": 8,
+        "name": "Kyle",
+        "role": "Fashion Designer",
+        "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/3.f520b68e.png",
+        "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever."
+    },
+    {
+        "id": 9,
+        "name": "Jessica",
+        "role": "IOS Developer",
+        "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/3.f520b68e.png",
+        "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever."
+    }
+]

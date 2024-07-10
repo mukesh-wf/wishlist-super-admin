@@ -1,0 +1,123 @@
+[
+  {
+    "name": "weekData",
+    "data": [
+      {
+        "landingPage": "HomePage",
+        "Sessions": "1,213",
+        "bounceRate": "5.2%",
+        "ctr": "256",
+        "GoalConvRate": "30%"
+      },
+      {
+        "landingPage": "Service",
+        "Sessions": "3,512",
+        "bounceRate": "4.2%",
+        "ctr": "256",
+        "GoalConvRate": "50%"
+      },
+      {
+        "landingPage": "Product",
+        "Sessions": "4,021",
+        "bounceRate": "3.2%",
+        "ctr": "256",
+        "GoalConvRate": "40%"
+      },
+      {
+        "landingPage": "Contact Us",
+        "Sessions": "1,021",
+        "bounceRate": "4.4%",
+        "ctr": "256",
+        "GoalConvRate": "60%"
+      },
+      {
+        "landingPage": "List of Products",
+        "Sessions": "3,000",
+        "bounceRate": "2.0%",
+        "ctr": "000",
+        "GoalConvRate": "20%"
+      }
+    ]
+  },
+
+  {
+    "name": "monthData",
+    "data": [
+      {
+        "landingPage": "HomePage",
+        "Sessions": "20,100",
+        "bounceRate": "6.2%",
+        "ctr": "1,256",
+        "GoalConvRate": "90%"
+      },
+      {
+        "landingPage": "Service",
+        "Sessions": "30,021",
+        "bounceRate": "5.2%",
+        "ctr": "2,256",
+        "GoalConvRate": "70%"
+      },
+      {
+        "landingPage": "Product",
+        "Sessions": "40,021",
+        "bounceRate": "6.2%",
+        "ctr": "2,006",
+        "GoalConvRate": "60%"
+      },
+      {
+        "landingPage": "Contact Us",
+        "Sessions": "11,021",
+        "bounceRate": "5.4%",
+        "ctr": "6,256",
+        "GoalConvRate": "70%"
+      },
+      {
+        "landingPage": "List of Products",
+        "Sessions": "32,020",
+        "bounceRate": "2.0%",
+        "ctr": "2,200",
+        "GoalConvRate": "40%"
+      }
+    ]
+  },
+  {
+    "name": "yearData",
+    "data": [
+      {
+        "landingPage": "HomePage",
+        "Sessions": "90,100",
+        "bounceRate": "9.2%",
+        "ctr": "49,256",
+        "GoalConvRate": "70%"
+      },
+      {
+        "landingPage": "Service",
+        "Sessions": "80,021",
+        "bounceRate": "7.2%",
+        "ctr": "36,256",
+        "GoalConvRate": "80%"
+      },
+      {
+        "landingPage": "Product",
+        "Sessions": "77,021",
+        "bounceRate": "7.2%",
+        "ctr": "72,325",
+        "GoalConvRate": "82%"
+      },
+      {
+        "landingPage": "Contact Us",
+        "Sessions": "91,021",
+        "bounceRate": "4.4%",
+        "ctr": "66,256",
+        "GoalConvRate": "70%"
+      },
+      {
+        "landingPage": "List of Products",
+        "Sessions": "32,020",
+        "bounceRate": "2.0%",
+        "ctr": "12,200",
+        "GoalConvRate": "40%"
+      }
+    ]
+  }
+]

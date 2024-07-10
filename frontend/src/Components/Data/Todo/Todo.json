@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Update user profile",
+    "isDragging": false
+  },
+  {
+    "id": "2",
+    "name": "Add product image for gallery",
+    "isDragging": false
+  },
+  {
+    "id": "3",
+    "name": "Do something to buy this product",
+    "isDragging": false
+  },
+  {
+    "id": "4",
+    "name": "Visit here once",
+    "isDragging": false
+  },
+  {
+    "id": "5",
+    "name": "Buy ticket for final match and get discount of 10%",
+    "isDragging": false
+  },
+  {
+    "id": "6",
+    "name": "Login page should contain password field",
+    "isDragging": false
+  },
+  {
+    "id": "7",
+    "name": "Get membership first",
+    "isDragging": false
+  }
+]

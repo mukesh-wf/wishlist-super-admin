@@ -1,0 +1,204 @@
+[
+  {
+    "name": "weekData",
+    "TotalIncome": "$21,325",
+    "TotalExpense": "$35,124",
+    "CostOfGoods": "$20,348",
+    "NetProfits": "$30,965",
+    "data": [
+      {
+        "Name": "Sun",
+        "Total Income": 20,
+        "Cost of goods sold": 10,
+        "Total expenses": 5,
+        "Net profit": 10
+      },
+      {
+        "Name": "Mon",
+        "Total Income": 60,
+        "Cost of goods sold": 20,
+        "Total expenses": 10,
+        "Net profit": 40
+      },
+      {
+        "Name": "Tue",
+        "Total Income": 50,
+        "Cost of goods sold": 30,
+        "Total expenses": 7,
+        "Net profit": 30
+      },
+      {
+        "Name": "Wed",
+        "Total Income": 45,
+        "Cost of goods sold": 40,
+        "Total expenses": 15,
+        "Net profit": 40
+      },
+      {
+        "Name": "Thu",
+        "Total Income": 50,
+        "Cost of goods sold": 30,
+        "Total expenses": 25,
+        "Net profit": 60
+      },
+      {
+        "Name": "Fri",
+        "Total Income": 60,
+        "Cost of goods sold": 20,
+        "Total expenses": 30,
+        "Net profit": 55
+      },
+      {
+        "Name": "Sat",
+        "Total Income": 70,
+        "Cost of goods sold": 45,
+        "Total expenses": 20,
+        "Net profit": 45
+      }
+    ]
+  },
+  {
+    "name": "monthData",
+    "TotalIncome": "$721,325",
+    "TotalExpense": "$335,124",
+    "CostOfGoods": "$420,348",
+    "NetProfits": "$5130,965",
+    "data": [
+      {
+        "Name": "1-5",
+        "Total Income": 70,
+        "Cost of goods sold": 50,
+        "Total expenses": 35,
+        "Net profit": 50
+      },
+      {
+        "Name": "6-10",
+        "Total Income": 100,
+        "Cost of goods sold": 70,
+        "Total expenses": 30,
+        "Net profit": 70
+      },
+      {
+        "Name": "11-15",
+        "Total Income": 80,
+        "Cost of goods sold": 50,
+        "Total expenses": 40,
+        "Net profit": 50
+      },
+      {
+        "Name": "16-20",
+        "Total Income": 85,
+        "Cost of goods sold": 40,
+        "Total expenses": 50,
+        "Net profit": 40
+      },
+      {
+        "Name": "21-25",
+        "Total Income": 90,
+        "Cost of goods sold": 60,
+        "Total expenses": 45,
+        "Net profit": 60
+      },
+      {
+        "Name": "26-31",
+        "Total Income": 87,
+        "Cost of goods sold": 70,
+        "Total expenses": 60,
+        "Net profit": 70
+      }
+    ]
+  },
+  {
+    "name": "yearData",
+    "TotalIncome": "$4521,325",
+    "TotalExpense": "$9635,124",
+    "CostOfGoods": "$5220,348",
+    "NetProfits": "$9930,965",
+    "data": [
+      {
+        "Name": "Jan",
+        "Total Income": 170,
+        "Cost of goods sold": 150,
+        "Total expenses": 135,
+        "Net profit": 150
+      },
+      {
+        "Name": "Feb",
+        "Total Income": 900,
+        "Cost of goods sold": 270,
+        "Total expenses": 230,
+        "Net profit": 270
+      },
+      {
+        "Name": "Mar",
+        "Total Income": 380,
+        "Cost of goods sold": 350,
+        "Total expenses": 340,
+        "Net profit": 350
+      },
+      {
+        "Name": "Apr",
+        "Total Income": 285,
+        "Cost of goods sold": 240,
+        "Total expenses": 250,
+        "Net profit": 240
+      },
+      {
+        "Name": "May",
+        "Total Income": 390,
+        "Cost of goods sold": 360,
+        "Total expenses": 345,
+        "Net profit": 360
+      },
+      {
+        "Name": "Jun",
+        "Total Income": 587,
+        "Cost of goods sold": 570,
+        "Total expenses": 560,
+        "Net profit": 570
+      },
+      {
+        "Name": "Jul",
+        "Total Income": 710,
+        "Cost of goods sold": 450,
+        "Total expenses": 440,
+        "Net profit": 450
+      },
+      {
+        "Name": "Aug",
+        "Total Income": 170,
+        "Cost of goods sold": 170,
+        "Total expenses": 170,
+        "Net profit": 170
+      },
+      {
+        "Name": "Sep",
+        "Total Income": 900,
+        "Cost of goods sold": 900,
+        "Total expenses": 900,
+        "Net profit": 900
+      },
+      {
+        "Name": "Oct",
+        "Total Income": 380,
+        "Cost of goods sold": 380,
+        "Total expenses": 380,
+        "Net profit": 380
+      },
+      {
+        "Name": "Nov",
+        "Total Income": 370,
+        "Cost of goods sold": 370,
+        "Total expenses": 370,
+        "Net profit": 370
+      },
+      {
+        "Name": "Dec",
+        "Total Income": 390,
+        "Cost of goods sold": 390,
+        "Total expenses": 390,
+        "Net profit": 390
+      }
+    ]
+  }
+]

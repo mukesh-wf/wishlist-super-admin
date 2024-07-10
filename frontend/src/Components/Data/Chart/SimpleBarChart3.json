@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Jan",
+    "Gain": 100,
+    "Loss": 67,
+    "amt": 240
+  },
+
+  {
+    "name": "Feb",
+    "Gain": 130,
+    "Loss": 200,
+    "amt": 150
+  },
+
+  {
+    "name": "Mar",
+    "Gain": 400,
+    "Loss": 170,
+    "amt": 200
+  },
+
+  {
+    "name": "April",
+    "Gain": 300,
+    "Loss": 200,
+    "amt": 100
+  },
+
+  {
+    "name": "May",
+    "Gain": 400,
+    "Loss": 170,
+    "amt": 200
+  },
+  {
+    "name": "June",
+    "Gain": 3800,
+    "Loss": 2390,
+    "amt": 2500
+  },
+
+  {
+    "name": "July",
+    "Gain": 500,
+    "Loss": 300,
+    "amt": 288
+  },
+  {
+    "name": "Sep",
+    "Gain": 500,
+    "Loss": 300,
+    "amt": 288
+  },
+
+  {
+    "name": "Oct",
+    "Gain": 500,
+    "Loss": 300,
+    "amt": 288
+  },
+
+  {
+    "name": "Nov",
+    "Gain": 500,
+    "Loss": 300,
+    "amt": 288
+  },
+
+  {
+    "name": "Dec",
+    "Gain": 500,
+    "Loss": 300,
+    "amt": 288
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Using Applications",
+    "color": "#f5aa33"
+  },
+  {
+    "id": 2,
+    "title": "UI Elements",
+    "color": "#f5aa33"
+  },
+  {
+    "id": 3,
+    "title": "Components",
+    "color": "#f5aa33"
+  },
+  {
+    "id": 4,
+    "title": "Build Process",
+    "color": "#f5aa33"
+  },
+  {
+    "id": 5,
+    "title": "Support Policy",
+    "color": "#f5aa33"
+  },
+  {
+    "id": 6,
+    "title": "Accounts and billing",
+    "color": "#f5aa33"
+  }
+]

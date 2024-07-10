@@ -1,0 +1,180 @@
+[
+  {
+    "name": "weekData",
+    "data": [
+      {
+        "Channel": "Aman",
+        "Sessions": "2,121",
+        "GoalConvRate": "5.2%",
+        "GoalsCompletions": "3,256",
+        "progressbar": 30,
+        "color": "danger",
+        "Value": "46.6%"
+      },
+      {
+        "Channel": "Raman",
+        "Sessions": "3,021",
+        "GoalConvRate": "4.2%",
+        "GoalsCompletions": "2,256",
+        "progressbar": 50,
+        "color": "info",
+        "Value": "76.6%"
+      },
+      {
+        "Channel": "Kailash",
+        "Sessions": "4,021",
+        "GoalConvRate": "3.2%",
+        "GoalsCompletions": "2,256",
+        "progressbar": 40,
+        "color": "secondary",
+        "Value": "36.4%"
+      },
+      {
+        "Channel": "Google",
+        "Sessions": "1,021",
+        "GoalConvRate": "4.4%",
+        "GoalsCompletions": "6,256",
+        "progressbar": 60,
+        "color": "warning",
+        "Value": "50.8%"
+      },
+      {
+        "Channel": "Surjeet",
+        "Sessions": "3,000",
+        "GoalConvRate": "2.0%",
+        "GoalsCompletions": "2,000",
+        "progressbar": 20,
+        "color": "success",
+        "Value": "11.4%"
+      },
+      {
+        "Channel": "Others",
+        "Sessions": "3,021",
+        "GoalConvRate": "2.2%",
+        "GoalsCompletions": "2,200",
+        "progressbar": 70,
+        "color": "danger",
+        "Value": "32.6%"
+      }
+    ]
+  },
+
+  {
+    "name": "monthData",
+    "data": [
+      {
+        "Channel": "Aman",
+        "Sessions": "20,100",
+        "GoalConvRate": "6.2%",
+        "GoalsCompletions": "9,256",
+        "progressbar": 90,
+        "color": "danger",
+        "Value": "46.6%%"
+      },
+      {
+        "Channel": "Raman",
+        "Sessions": "30,021",
+        "GoalConvRate": "5.2%",
+        "GoalsCompletions": "6,256",
+        "progressbar": 70,
+        "color": "info",
+        "Value": "76.6%"
+      },
+      {
+        "Channel": "Kailash",
+        "Sessions": "40,021",
+        "GoalConvRate": "6.2%",
+        "GoalsCompletions": "12,006",
+        "progressbar": 60,
+        "color": "secondary",
+        "Value": "36.6%"
+      },
+      {
+        "Channel": "Google",
+        "Sessions": "11,021",
+        "GoalConvRate": "5.4%",
+        "GoalsCompletions": "16,256",
+        "progressbar": 70,
+        "color": "warning",
+        "Value": "50.8%"
+      },
+      {
+        "Channel": "Surjeet",
+        "Sessions": "32,020",
+        "GoalConvRate": "2.0%",
+        "GoalsCompletions": "12,200",
+        "progressbar": 40,
+        "color": "success",
+        "Value": "11.4%"
+      },
+      {
+        "Channel": "Others",
+        "Sessions": "31,021",
+        "GoalConvRate": "2.2%",
+        "GoalsCompletions": "27,652",
+        "progressbar": 70,
+        "color": "danger",
+        "Value": "32.6%"
+      }
+    ]
+  },
+  {
+    "name": "yearData",
+    "data": [
+      {
+        "Channel": "Aman",
+        "Sessions": "90,100",
+        "GoalConvRate": "9.2%",
+        "GoalsCompletions": "49,256",
+        "progressbar": 70,
+        "color": "danger",
+        "Value": "46.6%"
+      },
+      {
+        "Channel": "Raman",
+        "Sessions": "80,021",
+        "GoalConvRate": "7.2%",
+        "GoalsCompletions": "36,256",
+        "progressbar": 80,
+        "color": "info",
+        "Value": "76.6%"
+      },
+      {
+        "Channel": "Kailash",
+        "Sessions": "77,021",
+        "GoalConvRate": "7.2%",
+        "GoalsCompletions": "72,325",
+        "progressbar": 82,
+        "color": "secondary",
+        "Value": "36.6%"
+      },
+      {
+        "Channel": "Google",
+        "Sessions": "91,021",
+        "GoalConvRate": "4.4%",
+        "GoalsCompletions": "66,256",
+        "progressbar": 70,
+        "color": "warning",
+        "Value": "50.8%"
+      },
+      {
+        "Channel": "Surjeet",
+        "Sessions": "73,000",
+        "GoalConvRate": "6.0%",
+        "GoalsCompletions": "22,251",
+        "progressbar": 70,
+        "color": "success",
+        "Value": "11.4%"
+      },
+      {
+        "Channel": "Others",
+        "Sessions": "37,765",
+        "GoalConvRate": "2.2%",
+        "GoalsCompletions": "23,452",
+        "progressbar": 90,
+        "color": "danger",
+        "Value": "32.6%"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Sun",
+    "age": 10,
+    "marks": 50
+  },
+  {
+    "id": 2,
+    "name": "Mon",
+    "age": 30,
+    "marks": 100
+  },
+  {
+    "id": 3,
+    "name": "Tue",
+    "age": 50,
+    "marks": 150
+  },
+  {
+    "id": 4,
+    "name": "Wed",
+    "age": 70,
+    "marks": 200
+  },
+  {
+    "id": 5,
+    "name": "Thu",
+    "age": 70,
+    "marks": 200
+  },
+  {
+    "id": 6,
+    "name": "Fri",
+    "age": 70,
+    "marks": 200
+  },
+  {
+    "id": 7,
+    "name": "Sat",
+    "age": 70,
+    "marks": 200
+  }
+]

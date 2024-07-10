@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/1.459b89d8.png",
+    "name": "Kim John",
+    "email": "kimjohn12@gmail.com",
+    "company": "IBM",
+    "position": "Software Developer",
+    "phone": "+2135012"
+  },
+  {
+    "id": 2,
+    "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/5.c786de1c.png",
+    "name": "Chris Jorden",
+    "email": "jordenchris012@gmail.com",
+    "company": "Microsoft",
+    "position": "IOS Developer",
+    "phone": "+3012585"
+  },
+  {
+    "id": 3,
+    "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/7.0bd01559.png",
+    "name": "Parnel",
+    "email": "parnel09@gmail.com",
+    "company": "Samsung",
+    "position": "Android Developer",
+    "phone": "+0014785"
+  },
+  {
+    "id": 4,
+    "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/3.f520b68e.png",
+    "name": "Divine",
+    "email": "divine99@gmail.com",
+    "company": "Apple",
+    "position": "UI/UX Designer",
+    "phone": "+3251062"
+  },
+  {
+    "id": 5,
+    "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/6.8a620d51.png",
+    "name": "Sophie",
+    "email": "sophie012@gmail.com",
+    "company": "Google",
+    "position": "AI specialist",
+    "phone": "+9874520"
+  },
+  {
+    "id": 6,
+    "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/1.459b89d8.png",
+    "name": "Jaswant",
+    "email": "jaswant22@gmail.com",
+    "company": "Aptron",
+    "position": "IoT Developer",
+    "phone": "+5486932"
+  },
+  {
+    "id": 7,
+    "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/8.419c8c3d.png",
+    "name": "Rubel",
+    "email": "rubel999@gmail.com",
+    "company": "IBM",
+    "position": "Web Developer",
+    "phone": "+6521478"
+  },
+  {
+    "id": 8,
+    "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/3.f520b68e.png",
+    "name": "Adem Smith",
+    "email": "smithadam321@gmail.com",
+    "company": "Google",
+    "position": "Software Developer",
+    "phone": "+0012369"
+  },
+  {
+    "id": 9,
+    "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/5.c786de1c.png",
+    "name": "John Carter",
+    "email": "johncarter@gmail.com",
+    "company": "Twitter",
+    "position": "Software Developer",
+    "phone": "+3021456"
+  },
+  {
+    "id": 10,
+    "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/1.459b89d8.png",
+    "name": "Harman",
+    "email": "harman645@gmail.com",
+    "company": "IT Solution",
+    "position": "UI/UX Designer",
+    "phone": "+2136054"
+  }
+]

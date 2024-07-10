@@ -1,0 +1,133 @@
+@use 'sass:math';
+
+$white-color:#fff;
+$orange-color:#f5aa33;
+$darkgrey-color:#272b41;
+
+.login-form {
+    background:url("../Image/login-bg.jpg") no-repeat center;
+    background-size:cover;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    .siteLogo {  
+        max-width: 240px;
+        margin: 0 0 20px;
+        width: 100%;
+
+        img {
+            width: 100%;    
+        }
+    }
+}
+.loginForm-inner {
+    max-width: 500px;
+    background: $darkgrey-color;
+    padding: 25px 40px 30px;
+    border-radius: 20px;
+    width: 100%;    
+    h3 {
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 32px;
+        margin: 0 0 20px;
+        color: $white-color;
+        text-align: center;    
+
+        span {
+            color: $orange-color;   
+        }
+    }
+    label {
+        padding: 0 0 8px;
+        line-height: 1.4;
+        color: $white-color;
+        font-weight: 400;
+        font-size: 14px;
+        margin: 0;    
+        display:block;
+    }
+    button {
+        height: 38px;
+        line-height: 28px;
+        font-size: 12px;
+        font-weight: 500;
+        padding: 10px;
+        color: $white-color;
+        border: 1px solid $orange-color;
+        box-shadow: 0 0;
+        outline: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 6px;
+        background: $orange-color;
+        width: 100px;   
+        margin:0 auto;
+
+        &:hover {
+            background: transparent;
+            color:$orange-color;
+        }
+    }
+    small a {
+        color: #f5aa33;
+        
+        &:hover {
+            text-decoration:none;
+        }
+    }
+    input {
+        outline: none;
+        border-radius: 4px;
+        padding: 12px;
+        border: none;
+        font-size: 14px;
+        line-height: 1.2;   
+        background-color:$white-color; 
+        color:$darkgrey-color;
+
+        &:hover, &:focus {
+            background-color:$white-color; 
+            color:$darkgrey-color;
+            box-shadow: none;
+        }
+    }
+    input[type="checkbox"] {
+        border: 1px solid #f5aa33;  
+        padding: 6px;
+        
+        &:checked {
+            background-color:$orange-color;
+        }
+    }
+    .passwordvisible {
+        position: absolute;
+        top: 50%;
+        right: 12px;    
+
+        img {
+            filter: invert(84%) sepia(13%) saturate(5424%) hue-rotate(334deg) brightness(101%) contrast(92%);     
+        }
+    }
+    .mb-3 {
+        position: relative;
+        margin-bottom: 1.2rem!important;  
+    }
+    .form-check {
+        margin: 0;
+        label {
+            padding: 0;   
+        }
+    }
+}
+
+.error{
+    font-size: 12px;
+    color: red;
+}

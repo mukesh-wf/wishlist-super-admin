@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Slice",
+    "color": "Yellow",
+    "size": "Large",
+    "category": "juice",
+    "quantity": 1,
+    "price": "1000",
+    "off": "60% off",
+    "oldPrice": "$1300",
+    "starDes": "4.9 778 Reviews",
+    "star": 5,
+    "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/11.808c1d77.png"
+  },
+  {
+    "id": 2,
+    "name": "Dinner Plate",
+    "color": "White",
+    "size": "Small",
+    "category": "plate",
+    "quantity": 1,
+    "price": "214",
+    "off": "",
+    "oldPrice": "",
+    "starDes": "4.9 778 Reviews",
+    "star": 3,
+    "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+    "img": "https://demo.dashboardmarket.com/strikingdash-vue/img/6.759db7fb.png"
+  }
+]
