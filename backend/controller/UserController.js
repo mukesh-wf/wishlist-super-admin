@@ -6,26 +6,100 @@ const calculateTenure = () => {
   let currentYear = date.getFullYear();
   let startDate = `${currentYear}-${(currentMonth + 1).toString().padStart(2, '0')}-01`;
   let endDate = new Date(currentYear, currentMonth + 1, 0).toISOString().split('T')[0];
-
+console.log("ssss ---- ", startDate)
+console.log("eeeee ---- ", endDate)
   return {
       startdate: startDate,
       enddate: endDate
   };
 };
 
-const getAllUsers = (req, res) => {
-  database.query(
-    `SELECT * FROM app_installation ;`,
-    (err, result) => {
-      if (err) {
-        console.log(err)
-      } else {
-        res.send(result)
-      }
-    }
-  );
 
-}
+
+const getCurrentWeek = () => {
+  const now = new Date();
+  const dayOfWeek = now.getDay(); 
+  const mondayOffset = (dayOfWeek === 0 ? -6 : 1) - dayOfWeek; 
+  const startOfWeek = new Date(now);
+  startOfWeek.setDate(now.getDate() + mondayOffset);
+  startOfWeek.setHours(0, 0, 0, 0);
+
+  const endOfWeek = new Date(startOfWeek);
+  endOfWeek.setDate(startOfWeek.getDate() + 6);
+  endOfWeek.setHours(23, 59, 59, 999);
+
+  return {
+    startOfWeek,
+    endOfWeek
+  };
+};
+
+
+const getCurrentMonth = () => {
+  const now = new Date();
+  const startOfMonth = new Date(now.getFullYear(), now.getMonth(), 1);
+  const endOfMonth = new Date(now.getFullYear(), now.getMonth() + 1, 0);
+  endOfMonth.setHours(23, 59, 59, 999);
+
+  return {
+    startOfMonth,
+    endOfMonth
+  };
+};
+
+
+const getAllUsers = (req, res) => {
+  const { searchquery, plan, status, monthweek } = req.query;
+
+  let sql = "SELECT * FROM app_installation WHERE 1=1";
+  const params = [];
+
+  if (searchquery) {
+    sql += " AND (store_owner LIKE ? OR shop_name LIKE ? OR shop_email LIKE ?)";
+    const searchPattern = `%${searchquery}%`;
+    params.push(searchPattern, searchPattern, searchPattern);
+  }
+  if (plan && plan !== "all") {
+    sql += " AND active_plan_name = ?";
+    params.push(plan);
+  }
+  if (status && status !== "all") {
+    sql += " AND status = ?";
+    params.push(status);
+  }
+ 
+  if (monthweek && monthweek !== "all") {
+    let startDate, endDate;
+    if (monthweek === 'week') {
+      const week = getCurrentWeek();
+      startDate = week.startOfWeek;
+      endDate = week.endOfWeek;
+      
+      console.log("startDate - week", startDate)
+      console.log("endDate - week", endDate)
+
+    } else if (monthweek === 'month') {
+      const month = getCurrentMonth();
+      startDate = month.startOfMonth;
+      endDate = month.endOfMonth;
+
+      console.log("startDate - month", startDate)
+      console.log("endDate - month", endDate)
+    }
+    sql += " AND date >= ? AND date <= ?";
+    params.push(startDate.toISOString().split('T')[0], endDate.toISOString().split('T')[0]);
+  }
+
+  database.query(sql, params, (err, result) => {
+    if (err) {
+      console.log(err);
+      res.status(500).send("Error fetching users");
+    } else {
+      res.send(result);
+    }
+  });
+};
+
 
 const getStoreDetail = (req, res) => {
 
